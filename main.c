@@ -15,8 +15,8 @@ int main()
     printf("Hello world!\n");
     printf("Hello world!\n");
     printf("Hello world!\n");
-    int numero =20;
-    int flag=0;
+    int numero2 =20;
+    int flag2=0;
     return 0;
 }
 
